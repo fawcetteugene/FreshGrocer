@@ -149,6 +149,11 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed description
 3. Include steps to reproduce the problem
 
+## 📞 Contact
+
+- **WhatsApp**: +254794689731
+- **LinkedIn**: [Fawcett Eugene](https://www.linkedin.com/in/fawcetteugene/)
+
 ## 🙏 Acknowledgments
 
 - Font Awesome for icons
